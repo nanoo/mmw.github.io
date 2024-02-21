@@ -6,6 +6,5 @@ img: lg_handflower_shiny_rainbow.jpg
 alt: image-alt
 materials: Anodized aluminum scales and rings · stainless steel clasp
 style: Large handflower
-price: $40.00
 description: Description coming soon...
 ---
